@@ -2,7 +2,6 @@
 # Use a minimal base image
 FROM alpine:latest
 
-# Only keep the line below, replace everything else
 LABEL org.opencontainers.image.source=https://github.com/hoenlab/immun-api
 
 # Create a simple script
